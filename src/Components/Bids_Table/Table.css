@@ -1,0 +1,22 @@
+.Main-Table-container{
+    display: flex;
+    justify-content: center;
+    overflow: auto;
+    
+}
+
+.Table{
+    padding: 10px 40px;
+    height: 150px;
+    width:700px;
+    
+}
+.row-head{
+    background-color: rgba(82, 82, 82, 0.258)
+}
+.row1{
+    background-color: rgba(6, 71, 175, 0.829)
+}
+.row2{
+    background-color: rgba(5, 44, 106, 0.687)
+}
